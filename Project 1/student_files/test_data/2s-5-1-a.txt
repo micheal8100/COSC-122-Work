@@ -1,0 +1,9 @@
+stolen=2
+PK4720 SP8651
+
+sightings=5
+UG7543 KN5190 WW1181 QB0150 SP8651
+
+sighted stolen=1
+SP8651
+

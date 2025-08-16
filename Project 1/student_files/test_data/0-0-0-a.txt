@@ -1,0 +1,6 @@
+stolen=0
+
+sightings=0
+
+sighted stolen=0
+

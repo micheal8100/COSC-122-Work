@@ -1,0 +1,8 @@
+stolen=5
+BW1181 HK6519 PK4720 SC3754 SP8651
+
+sightings=5
+QB0150 OD6951 GQ5053 NX2478 JX2175
+
+sighted stolen=0
+
