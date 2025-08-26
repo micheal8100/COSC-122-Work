@@ -563,25 +563,25 @@ def all_tests_suite():
     suite = unittest.TestSuite()
     test_loader = unittest.defaultTestLoader.loadTestsFromTestCase
 
-    # suite.addTest(test_loader(TinyLinear))
-    # suite.addTest(test_loader(SmallLinear))
+    suite.addTest(test_loader(TinyLinear))
+    suite.addTest(test_loader(SmallLinear))
     # suite.addTest(test_loader(LargeLinearV1))
     # suite.addTest(test_loader(LargeLinearV2))
     # suite.addTest(test_loader(LargeLinearV3))
     # suite.addTest(test_loader(HugeLinearV1))
-    # suite.addTest(test_loader(SmallLinearExact))
-    # suite.addTest(test_loader(MediumLinearExact))
+    suite.addTest(test_loader(SmallLinearExact))
+    suite.addTest(test_loader(MediumLinearExact))
     # suite.addTest(test_loader(LargeLinearExact))
 
     # IMPORTANT NOTE <==================================================================
     # uncomment the following lines when you are ready for binary testing
-    suite.addTest(test_loader(TinyBinary))
-    suite.addTest(test_loader(SmallBinary))
-    suite.addTest(test_loader(MediumBinary))
-    suite.addTest(test_loader(LargeBinaryV1))
-    suite.addTest(test_loader(LargeBinaryV2))
-    suite.addTest(test_loader(LargeBinaryV3))
-    suite.addTest(test_loader(HugeBinaryV1))
+    # suite.addTest(test_loader(TinyBinary))
+    # suite.addTest(test_loader(SmallBinary))
+    # suite.addTest(test_loader(MediumBinary))
+    # suite.addTest(test_loader(LargeBinaryV1))
+    # suite.addTest(test_loader(LargeBinaryV2))
+    # suite.addTest(test_loader(LargeBinaryV3))
+    # suite.addTest(test_loader(HugeBinaryV1))
     return suite
 
 

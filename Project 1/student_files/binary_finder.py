@@ -31,7 +31,6 @@ def binary_stolen_plate_finder(stolen_plates, sighted_plates):
     for plate in sighted_plates:
         low = 0
         high = len(stolen_plates) - 1
-        
         while low < high:
             mid = (low + high) // 2
             total_comparisons += 1
@@ -41,8 +40,13 @@ def binary_stolen_plate_finder(stolen_plates, sighted_plates):
                 high = mid
         
         total_comparisons += 1
-        if low < len(stolen_plates) and stolen_plates[low] == plate:
-            result_list.append(plate)
+        # it will index error if there is no stolen plates but there are sighted
+        try:
+            if stolen_plates[low] == plate:
+                result_list.append(plate)
+        except(IndexError):
+            # in case there is no stolen plates 
+            return [], total_comparisons
     # ===end student section===
     return result_list, total_comparisons
 
@@ -57,7 +61,7 @@ def run_tests():
     to help with developing your awesome answer code.
     You should leave this out of your submission """
     from linear_finder import linear_stolen_plate_finder
-    sighted_plates = [5]
+    sighted_plates = [5, 4, 6]
     stolen_plates = []
     print(binary_stolen_plate_finder(stolen_plates, sighted_plates))
 

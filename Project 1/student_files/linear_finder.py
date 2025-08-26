@@ -56,8 +56,8 @@ def run_tests():
     You should leave this out of your submission """
     print('Tests are fun!')
     from linear_finder import linear_stolen_plate_finder
-    sighted_plates = []
-    stolen_plates = []
+    sighted_plates = [1, 2, 3, 5, 4]
+    stolen_plates = [3, 4, 1, 2]
     print(linear_stolen_plate_finder(stolen_plates, sighted_plates))
 
 
