@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> ('EK6094', 'Horrible colour scheme')
+3-> None
+4-> None
+5-> ('NN4501', 'Drifter')
+6-> None
+7-> ('UV4656', '')
+8-> ('MH9577', '')
+9-> ('ZP0997', '')
+10-> ('SA7578', '')
+11-> ('TX2667', 'Tomato thief')
+12-> None
+13-> None
+14-> None
+15-> None
+16-> ('JR9493', '')
+17-> None
+18-> None
+19-> None
+20-> None
+21-> ('CW9805', 'Texts while driving')
+22-> ('KD1091', '')
+23-> None
+24-> None
+25-> ('AX1493', '')
+26-> ('VX2139', '')
+27-> ('HQ0599', '')
+28-> None
+29-> None
+30-> None
+31-> ('NB9672', '')
+32-> None
+33-> None
+34-> ('CR1157', '')
+35-> ('KZ9016', 'Bald tyres')
+36-> ('EC2184', '')
+37-> ('BN0923', '')
+38-> ('JO3369', 'Strudel stealer')
+39-> ('KP8702', 'Pavlova poacher')

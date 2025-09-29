@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> ('KA0680', 'Suspended driving licence')
+1-> None
+2-> ('XU0660', 'Slow at drive-through')
+3-> None
+4-> ('OO2502', 'Cheats at monopoly')
+5-> ('SH2195', '')
+6-> ('AL1391', '')
+7-> None
+8-> ('IR2930', '')
+9-> ('XZ8034', 'Texts while driving')
+10-> None
+11-> None
+12-> None
+13-> None
+14-> ('NZ5635', '')
+15-> None
+16-> None
+17-> None
+18-> None
+19-> None
+20-> ('HN4001', '')
+21-> ('JF3724', '')
+22-> ('JO8598', '')
+23-> ('AX3394', '')
+24-> ('KU8037', '')
+25-> None
+26-> ('HH2641', '')
+27-> ('WP1432', 'Cheats at golf')
+28-> None
+29-> None
+30-> None
+31-> None
+32-> None
+33-> None
+34-> ('KN2387', '')
+35-> ('BH3782', '')
+36-> None
+37-> ('RB0880', '')
+38-> ('FG3247', 'Drunk driver')
+39-> ('GZ6152', 'Suspended driving licence')

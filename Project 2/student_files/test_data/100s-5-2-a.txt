@@ -1,0 +1,113 @@
+database=100
+AB4155:
+AQ5471:
+AS5143:
+BD7413:
+BE1723:Crimes against fashion
+BI5245:
+BS7774:
+BU5868:
+BW3139:
+CF1926:
+CK7433:ALL CAPS TWEETER
+CO0641:Werewolf
+CW3477:
+DI8302:
+DP4717:
+DV4791:
+EC9399:
+ET1396:
+EU6537:
+EW3981:
+EZ6652:
+FI8997:
+FU1537:Cheats at monopoly
+GC8359:
+GD2341:
+GP0739:
+HR6521:
+HS6648:Bogun
+HY1530:
+IC4674:Extra Terrestrial
+IF9312:Snail speed
+IL5887:
+IV2831:
+JD4133:Loud
+JE6201:
+JJ7028:Body snatcher
+JP3734:
+KH8563:Bald tyres
+LE3652:Outstanding parking tickets
+LF3409:Wanted by Interpol
+LG0704:
+LK8927:
+LR9220:
+MB3345:Cheats at golf
+MB4194:
+MN4661:ALL CAPS TWEETER
+MP1839:
+MX7943:
+MY1091:Vampire
+NB4544:
+NF7588:Extra Terrestrial
+NH2347:
+NN5944:Outstanding parking tickets
+NV6567:Snail speed
+OO0867:
+OP1815:
+OP3922:
+OQ3743:
+OT2980:Texts while driving
+OY0294:
+OY8560:
+PH5090:Extra Terrestrial
+PO9182:Registration expired
+PR6770:
+PV9429:Internet troll
+QO4314:
+QX8819:Loud
+RA5719:
+RG0327:Terrible parallel parker
+RG1725:
+RG2914:
+RX5133:
+SF5861:Suspended driving licence
+SJ5772:
+ST0916:
+ST1568:
+TD0983:Snail speed
+TG2476:
+TG8988:
+TH6733:Registration expired
+TI7385:
+TV1043:
+UF0101:
+UF8509:Cheats at monopoly
+VD0034:
+VO4849:Suspended driving licence
+VW0479:
+VX9955:
+WA4115:Horrible colour scheme
+WH9606:
+XB5148:
+XL4560:Crimes against fashion
+YF0590:Zombie
+ZA7464:
+ZI9024:
+ZJ9860:
+ZK7502:Registration expired
+ZL6520:
+ZY4389:Slow at drive-through
+ZZ3923:
+
+sightings=5
+DV4791;2018-01-19T11:33:11
+CO0641;2018-01-19T11:33:49
+OL1521;2018-01-19T11:33:58
+TH6733;2018-01-19T11:34:56
+OP1815;2018-01-19T11:35:15
+
+seen+flagged=2,2
+CO0641;2018-01-19T11:33:49
+TH6733;2018-01-19T11:34:56
+

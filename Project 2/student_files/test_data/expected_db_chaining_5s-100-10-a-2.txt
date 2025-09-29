@@ -1,0 +1,3 @@
+Chaining Hash Table:
+0-> [('OK8478', ''), ('WI4061', '')]
+1-> [('KO4383', ''), ('NX6457', ''), ('ZF5485', 'Wanted by Interpol')]

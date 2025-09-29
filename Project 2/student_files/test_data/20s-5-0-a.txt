@@ -1,0 +1,31 @@
+database=20
+AA8991:Tomato thief
+CA3359:Illegal parker
+DG6307:
+DH5900:Drunk driver
+EO0434:Bogun
+EU6372:
+HQ8955:
+IQ0453:
+MT5614:Registration expired
+PU9733:
+PX0275:Banana burglar
+QK5733:
+RL4416:
+TA8345:Cheats at golf
+TV9389:
+UR8502:Underage driving
+UW8677:Pavlova poacher
+WH8491:
+XG1180:
+XV8087:
+
+sightings=5
+VX4984;2017-09-13T10:36:17
+WH8491;2017-09-13T10:37:03
+PU9733;2017-09-13T10:37:47
+HQ8955;2017-09-13T10:38:44
+QK5733;2017-09-13T10:39:41
+
+seen+flagged=0,0
+

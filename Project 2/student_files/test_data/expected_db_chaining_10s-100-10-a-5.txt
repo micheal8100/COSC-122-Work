@@ -1,0 +1,6 @@
+Chaining Hash Table:
+0-> [('DP8787', ''), ('KJ1882', 'Underage driving'), ('UL4451', '')]
+1-> []
+2-> [('GB2411', ''), ('WN0734', 'ALL CAPS TWEETER'), ('WS4100', '')]
+3-> [('SL7190', 'Wanted by Interpol')]
+4-> [('FH9336', ''), ('HF3562', ''), ('IP3092', 'Suspended driving licence')]

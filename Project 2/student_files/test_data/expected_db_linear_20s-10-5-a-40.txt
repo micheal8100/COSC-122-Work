@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> ('CU1997', '')
+1-> ('HL5065', '')
+2-> None
+3-> ('OH8216', '')
+4-> ('NH3163', '')
+5-> None
+6-> None
+7-> None
+8-> None
+9-> None
+10-> None
+11-> ('FH8426', '')
+12-> ('HC2533', 'Horrible colour scheme')
+13-> ('XL1467', 'Axe murderer')
+14-> ('KC4458', '')
+15-> ('HI2948', '')
+16-> ('JC6470', '')
+17-> None
+18-> None
+19-> None
+20-> None
+21-> ('QU7227', '')
+22-> ('MB6011', 'Snail speed')
+23-> ('ZV8944', 'Bogun')
+24-> None
+25-> ('HP8479', '')
+26-> None
+27-> None
+28-> None
+29-> None
+30-> None
+31-> None
+32-> ('QV9621', '')
+33-> None
+34-> ('NI8222', 'Tomato thief')
+35-> ('OR3062', 'Banana burglar')
+36-> ('ZH7266', 'Zombie')
+37-> None
+38-> ('MD4194', 'Terrible parallel parker')
+39-> ('CF8214', 'Body snatcher')

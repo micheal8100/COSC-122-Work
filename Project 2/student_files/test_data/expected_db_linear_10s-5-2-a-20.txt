@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> ('EL1924', 'Registration expired')
+1-> None
+2-> ('GP2576', '')
+3-> ('MF4273', '')
+4-> ('IN6615', 'Ghost')
+5-> None
+6-> None
+7-> None
+8-> ('CG6667', '')
+9-> ('BC8791', 'Horrible colour scheme')
+10-> None
+11-> None
+12-> None
+13-> ('HR1265', 'Registration expired')
+14-> ('HZ9434', '')
+15-> ('UK0618', 'Crimes against fashion')
+16-> None
+17-> ('BO8441', '')
+18-> None
+19-> None

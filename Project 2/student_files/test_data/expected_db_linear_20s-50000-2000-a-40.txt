@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> ('CY9273', '')
+1-> None
+2-> None
+3-> None
+4-> None
+5-> None
+6-> ('NI3739', '')
+7-> ('OU0154', 'ALL CAPS TWEETER')
+8-> None
+9-> None
+10-> None
+11-> None
+12-> ('VI5959', '')
+13-> ('KF4634', 'Cheats at monopoly')
+14-> ('GV0370', 'Slow at drive-through')
+15-> ('BM3941', '')
+16-> ('BQ7682', 'Axe murderer')
+17-> ('GO2110', '')
+18-> None
+19-> ('TZ7315', 'Loud')
+20-> ('EG1310', '')
+21-> ('YA5419', 'Pavlova poacher')
+22-> ('DQ8358', '')
+23-> ('YE5579', '')
+24-> None
+25-> None
+26-> None
+27-> ('TM3994', '')
+28-> ('XG2054', '')
+29-> ('ZY8612', 'ALL CAPS TWEETER')
+30-> None
+31-> None
+32-> ('NQ5128', 'Suspended driving licence')
+33-> None
+34-> None
+35-> None
+36-> None
+37-> None
+38-> ('AW7170', '')
+39-> ('UO1874', 'Loud')

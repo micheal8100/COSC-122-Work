@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> ('RV7071', '')
+3-> None
+4-> None
+5-> ('XK3495', 'Bald tyres')
+6-> ('HR9080', '')
+7-> ('EC7326', 'Drunk driver')
+8-> ('LM0176', '')
+9-> ('PS5981', 'Banana burglar')
+10-> ('YE5979', 'Vampire')
+11-> None
+12-> ('RS4613', '')
+13-> None
+14-> ('GJ4262', '')
+15-> None
+16-> None
+17-> None
+18-> None
+19-> ('YT5118', '')

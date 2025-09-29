@@ -1,0 +1,11 @@
+Chaining Hash Table:
+0-> [('AB7816', 'Tomato thief')]
+1-> [('FK3936', ''), ('UA9395', '')]
+2-> [('XD1987', '')]
+3-> [('AB2560', ''), ('QL3349', 'Tomato thief'), ('ZP3212', '')]
+4-> [('HC7339', ''), ('KD4323', ''), ('WI3709', 'Snail speed')]
+5-> [('EL9271', 'Terrible parallel parker'), ('NX2749', 'Crimes against fashion'), ('YX6162', 'Tomato thief')]
+6-> [('DU8374', 'Slow at drive-through')]
+7-> [('AB9248', 'ALL CAPS TWEETER'), ('CK7063', ''), ('LX6174', ''), ('YO8053', 'Bogun')]
+8-> []
+9-> [('OC6789', ''), ('VQ9424', 'Ghost')]

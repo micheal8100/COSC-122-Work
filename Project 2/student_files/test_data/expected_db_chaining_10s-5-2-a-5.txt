@@ -1,0 +1,6 @@
+Chaining Hash Table:
+0-> [('EL1924', 'Registration expired')]
+1-> []
+2-> [('BO8441', ''), ('GP2576', ''), ('MF4273', '')]
+3-> [('CG6667', ''), ('HR1265', 'Registration expired'), ('HZ9434', '')]
+4-> [('BC8791', 'Horrible colour scheme'), ('IN6615', 'Ghost'), ('UK0618', 'Crimes against fashion')]

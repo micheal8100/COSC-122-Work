@@ -1,0 +1,11 @@
+Chaining Hash Table:
+0-> [('UZ5373', 'Illegal parker')]
+1-> [('DA3947', 'Underage driving'), ('YV0205', '')]
+2-> [('HX6753', 'Suspended driving licence')]
+3-> [('SF6715', ''), ('WW7261', 'Underage driving')]
+4-> [('GJ3216', ''), ('NU5421', ''), ('UB6125', 'Wanted by Interpol')]
+5-> [('FQ1178', 'Illegal parker'), ('XX5465', '')]
+6-> [('ON3577', ''), ('UJ8444', ''), ('XF3873', ''), ('XG3870', '')]
+7-> [('HM0636', '')]
+8-> []
+9-> [('EM4488', 'Internet troll'), ('EX4869', ''), ('RZ9371', ''), ('YT3952', '')]

@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> ('NO8071', '')
+3-> None
+4-> ('KX2541', '')
+5-> ('SP4333', '')
+6-> ('EQ7305', '')
+7-> ('FH0223', 'Registration expired')
+8-> ('SD0973', 'Underage driving')
+9-> ('UI3570', 'Drifter')
+10-> ('VX5020', '')
+11-> None
+12-> ('ND0597', 'Registration expired')
+13-> None
+14-> None
+15-> None
+16-> None
+17-> ('WN4353', '')
+18-> ('VV1068', 'Ghost')
+19-> ('CP9295', '')
+20-> ('HE9354', 'Internet troll')
+21-> ('RE8170', '')
+22-> ('AN8017', '')
+23-> ('AR4754', '')
+24-> ('IM3878', '')
+25-> None
+26-> None
+27-> ('ZP2499', 'Zombie')
+28-> None
+29-> None
+30-> ('VN4540', 'Cheats at poker')
+31-> None
+32-> None
+33-> None
+34-> ('FS8318', '')
+35-> None
+36-> None
+37-> None
+38-> None
+39-> None

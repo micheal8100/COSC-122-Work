@@ -1,0 +1,201 @@
+Linear Hash Table:
+0-> ('WR7247', 'Horrible colour scheme')
+1-> None
+2-> ('BN3101', 'WOF expired')
+3-> None
+4-> ('BW5049', 'WOF expired')
+5-> None
+6-> ('XV6139', 'Terrible parallel parker')
+7-> None
+8-> ('PP2629', '')
+9-> ('JI6812', '')
+10-> None
+11-> None
+12-> None
+13-> None
+14-> None
+15-> ('HE0890', '')
+16-> None
+17-> None
+18-> ('EE7671', 'Suspended driving licence')
+19-> None
+20-> ('CY0032', 'WOF expired')
+21-> ('YS5941', '')
+22-> None
+23-> None
+24-> None
+25-> None
+26-> ('TF8559', 'Axe murderer')
+27-> None
+28-> None
+29-> None
+30-> ('DC5768', '')
+31-> None
+32-> ('UP2943', '')
+33-> ('WY7092', '')
+34-> None
+35-> None
+36-> None
+37-> ('PD8174', '')
+38-> ('VH7460', '')
+39-> ('IT2991', '')
+40-> None
+41-> None
+42-> ('DI3250', 'Werewolf')
+43-> None
+44-> ('PK1564', '')
+45-> None
+46-> None
+47-> ('CQ4565', 'Suspended driving licence')
+48-> None
+49-> ('SY4620', '')
+50-> ('US2301', 'Bogun')
+51-> None
+52-> ('TV9240', '')
+53-> ('TR1737', '')
+54-> ('WM7698', 'Strudel stealer')
+55-> None
+56-> None
+57-> None
+58-> None
+59-> ('LI2005', '')
+60-> None
+61-> None
+62-> ('JG2608', '')
+63-> ('YT2927', '')
+64-> ('YO4645', 'Bald tyres')
+65-> None
+66-> ('QN3742', '')
+67-> ('AI0062', 'Ghost')
+68-> None
+69-> None
+70-> ('PY6239', '')
+71-> None
+72-> None
+73-> None
+74-> ('NT1941', 'Drunk driver')
+75-> ('QA0611', '')
+76-> None
+77-> None
+78-> ('JJ1547', '')
+79-> ('KH6500', 'Illegal parker')
+80-> None
+81-> None
+82-> None
+83-> None
+84-> ('IC1707', '')
+85-> None
+86-> None
+87-> ('BN8284', '')
+88-> ('GH5219', 'Cheats at poker')
+89-> None
+90-> None
+91-> None
+92-> ('SS4632', '')
+93-> None
+94-> ('SH7540', 'Underage driving')
+95-> ('QM9814', '')
+96-> None
+97-> None
+98-> None
+99-> None
+100-> None
+101-> ('XQ0900', '')
+102-> ('GG3279', 'Suspended driving licence')
+103-> ('JU5459', 'Axe murderer')
+104-> None
+105-> ('SN6360', '')
+106-> ('TX7456', '')
+107-> ('YK6437', '')
+108-> None
+109-> None
+110-> ('JT4164', '')
+111-> ('CU5764', 'Banana burglar')
+112-> ('GW7584', 'Wanted by Interpol')
+113-> ('SX8923', '')
+114-> ('CH0075', '')
+115-> ('WA8676', '')
+116-> ('RD1059', '')
+117-> ('WQ3160', 'Slow at drive-through')
+118-> ('HR3110', 'Extra Terrestrial')
+119-> ('AG9823', '')
+120-> ('SL7131', 'Bald tyres')
+121-> None
+122-> None
+123-> None
+124-> None
+125-> None
+126-> None
+127-> None
+128-> ('ZZ6045', 'Snail speed')
+129-> ('MK8390', '')
+130-> ('OQ1132', '')
+131-> ('XO0236', 'Werewolf')
+132-> None
+133-> None
+134-> ('CB6097', '')
+135-> None
+136-> ('DO6495', '')
+137-> None
+138-> ('IP4576', 'Slow at drive-through')
+139-> ('FE2102', '')
+140-> ('EB1661', 'Cloned plate')
+141-> ('YE8547', '')
+142-> ('GO8047', 'Jail-breaker')
+143-> None
+144-> None
+145-> None
+146-> ('VK9454', '')
+147-> ('XL9709', 'Registration expired')
+148-> None
+149-> ('PC3738', '')
+150-> None
+151-> None
+152-> None
+153-> ('MB4632', '')
+154-> ('AB5933', 'Illegal parker')
+155-> ('EH9306', '')
+156-> None
+157-> ('FP8367', 'Werewolf')
+158-> ('AD9856', '')
+159-> ('XS9253', '')
+160-> None
+161-> None
+162-> None
+163-> None
+164-> None
+165-> ('HC3675', 'Terrorist')
+166-> None
+167-> ('UM5058', '')
+168-> None
+169-> None
+170-> ('FJ7325', 'Cheats at golf')
+171-> ('XC9631', '')
+172-> None
+173-> ('JV1595', 'Pavlova poacher')
+174-> None
+175-> ('KB6472', 'Cheats at golf')
+176-> ('KH4891', '')
+177-> ('VC5449', '')
+178-> None
+179-> ('CS6789', 'Pavlova poacher')
+180-> ('GK9894', '')
+181-> None
+182-> ('DU4880', '')
+183-> None
+184-> ('TW9700', '')
+185-> ('QA8305', 'Texts while driving')
+186-> ('DG2916', '')
+187-> None
+188-> ('MA4175', '')
+189-> None
+190-> ('IY1761', '')
+191-> ('JQ0239', 'Snail speed')
+192-> ('CF7405', '')
+193-> ('FM3806', 'Extra Terrestrial')
+194-> ('SC6492', '')
+195-> ('IS0491', '')
+196-> None
+197-> None
+198-> None
+199-> None

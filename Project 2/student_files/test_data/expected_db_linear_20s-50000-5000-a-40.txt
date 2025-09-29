@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> None
+3-> None
+4-> None
+5-> ('KS6475', '')
+6-> ('DS0486', '')
+7-> ('JH1808', 'WOF expired')
+8-> None
+9-> None
+10-> None
+11-> None
+12-> None
+13-> ('LN1823', 'Outstanding parking tickets')
+14-> ('CK0102', '')
+15-> ('FV1328', 'Zombie')
+16-> ('IF7717', '')
+17-> ('LT8632', '')
+18-> ('YJ9740', 'Ghost')
+19-> ('YN7334', 'Cloned plate')
+20-> None
+21-> None
+22-> ('CU0052', '')
+23-> ('BB4121', '')
+24-> ('SI7502', '')
+25-> ('YZ5375', 'Bogun')
+26-> None
+27-> ('NX4057', '')
+28-> ('HH8216', '')
+29-> ('IR3509', '')
+30-> None
+31-> None
+32-> ('UQ1958', '')
+33-> None
+34-> ('PU8295', '')
+35-> ('BO5596', '')
+36-> None
+37-> None
+38-> None
+39-> None

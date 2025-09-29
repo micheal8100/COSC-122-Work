@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> ('JD1482', 'Outstanding parking tickets')
+1-> ('JK3476', '')
+2-> ('MA3644', '')
+3-> ('CO0725', '')
+4-> ('ZR4147', '')
+5-> None
+6-> ('LQ5731', '')
+7-> None
+8-> None
+9-> None
+10-> ('SR2439', '')
+11-> None
+12-> None
+13-> None
+14-> ('RB1352', 'Bogun')
+15-> ('EA4651', '')
+16-> ('IX1684', '')
+17-> None
+18-> None
+19-> None
+20-> None
+21-> None
+22-> None
+23-> None
+24-> ('GB1007', '')
+25-> ('TC0928', '')
+26-> ('UA3600', '')
+27-> ('VU0545', 'Banana burglar')
+28-> None
+29-> None
+30-> None
+31-> None
+32-> None
+33-> None
+34-> ('FX4490', 'Axe murderer')
+35-> ('KY0969', '')
+36-> ('MZ1318', 'Registration expired')
+37-> ('OT0401', '')
+38-> ('EG0632', '')
+39-> ('YK8208', 'Drunk driver')

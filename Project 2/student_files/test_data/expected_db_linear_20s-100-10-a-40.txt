@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> None
+1-> ('GU0574', '')
+2-> ('WG7442', '')
+3-> ('YT1532', '')
+4-> None
+5-> None
+6-> ('DB2302', '')
+7-> ('TL0412', '')
+8-> None
+9-> ('HK7550', '')
+10-> None
+11-> ('VZ7825', '')
+12-> ('CL0604', 'Banana burglar')
+13-> ('OZ3566', '')
+14-> None
+15-> None
+16-> None
+17-> None
+18-> None
+19-> None
+20-> None
+21-> ('CM6323', '')
+22-> ('AP1027', 'Werewolf')
+23-> ('IT6835', 'Cheats at monopoly')
+24-> ('IT7877', 'Drifter')
+25-> ('RP0565', 'Cloned plate')
+26-> ('VP0671', '')
+27-> ('ZN5982', 'WOF expired')
+28-> None
+29-> ('VF8000', 'Zombie')
+30-> ('ZM8708', '')
+31-> None
+32-> None
+33-> ('XB9575', '')
+34-> ('RB1129', '')
+35-> None
+36-> None
+37-> None
+38-> None
+39-> None

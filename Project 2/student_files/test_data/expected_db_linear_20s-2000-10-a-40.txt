@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> ('RM1865', 'Zombie')
+1-> ('XA4081', 'Drifter')
+2-> None
+3-> None
+4-> ('CU7200', 'Registration expired')
+5-> None
+6-> None
+7-> None
+8-> ('SH4305', '')
+9-> None
+10-> ('MC0166', '')
+11-> ('RF2241', 'Texts while driving')
+12-> ('PL8227', '')
+13-> ('DM0298', '')
+14-> ('VY1832', '')
+15-> ('ZH1392', '')
+16-> ('CO7893', '')
+17-> ('VR0970', '')
+18-> ('LI3368', '')
+19-> ('FP8493', '')
+20-> ('PE1417', '')
+21-> None
+22-> None
+23-> None
+24-> ('IX8710', '')
+25-> ('LZ2691', 'Cheats at golf')
+26-> ('RN0439', '')
+27-> None
+28-> None
+29-> None
+30-> ('CT7364', 'Snail speed')
+31-> None
+32-> ('BA5469', '')
+33-> None
+34-> None
+35-> None
+36-> None
+37-> None
+38-> None
+39-> None

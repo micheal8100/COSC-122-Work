@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> ('RR6848', '')
+1-> None
+2-> None
+3-> ('LH0363', 'Wanted by Interpol')
+4-> ('TQ6654', 'Texts while driving')
+5-> ('FN4273', '')
+6-> None
+7-> None
+8-> None
+9-> ('XK9071', '')
+10-> None
+11-> None
+12-> None
+13-> None
+14-> None
+15-> ('ZU8706', '')
+16-> ('LC3553', '')
+17-> ('VL1672', 'Slow at drive-through')
+18-> ('NL6171', 'WOF expired')
+19-> ('RK8260', '')

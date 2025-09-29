@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> ('ID7418', '')
+3-> ('UW3611', '')
+4-> ('IG9660', '')
+5-> None
+6-> None
+7-> ('IC3043', '')
+8-> None
+9-> ('HV4965', 'Suspended driving licence')
+10-> None
+11-> None
+12-> None
+13-> ('BS0935', '')
+14-> None
+15-> None
+16-> None
+17-> None
+18-> None
+19-> ('RE2933', 'Registration expired')
+20-> ('ZA5914', 'Cheats at golf')
+21-> None
+22-> None
+23-> None
+24-> ('WM5703', 'Bald tyres')
+25-> ('EZ6296', '')
+26-> ('GH8303', 'Cheats at poker')
+27-> ('WN5985', '')
+28-> None
+29-> None
+30-> ('LD8830', 'Bald tyres')
+31-> ('NG7500', '')
+32-> ('VQ2380', 'ALL CAPS TWEETER')
+33-> ('GK0323', '')
+34-> ('JT2005', 'Registration expired')
+35-> None
+36-> ('NB4797', '')
+37-> ('SJ2244', 'Outstanding parking tickets')
+38-> ('CO6474', '')
+39-> None

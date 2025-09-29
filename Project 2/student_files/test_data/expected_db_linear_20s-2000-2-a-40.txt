@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> ('YO8053', 'Bogun')
+1-> ('ZP3212', '')
+2-> ('XD1987', '')
+3-> None
+4-> ('WI3709', 'Snail speed')
+5-> None
+6-> None
+7-> ('CK7063', '')
+8-> ('LX6174', '')
+9-> None
+10-> None
+11-> None
+12-> None
+13-> ('QL3349', 'Tomato thief')
+14-> None
+15-> None
+16-> None
+17-> None
+18-> None
+19-> ('VQ9424', 'Ghost')
+20-> None
+21-> ('UA9395', '')
+22-> None
+23-> None
+24-> ('KD4323', '')
+25-> ('YX6162', 'Tomato thief')
+26-> None
+27-> None
+28-> None
+29-> None
+30-> ('AB7816', 'Tomato thief')
+31-> ('FK3936', '')
+32-> None
+33-> ('AB2560', '')
+34-> ('HC7339', '')
+35-> ('EL9271', 'Terrible parallel parker')
+36-> ('DU8374', 'Slow at drive-through')
+37-> ('AB9248', 'ALL CAPS TWEETER')
+38-> ('NX2749', 'Crimes against fashion')
+39-> ('OC6789', '')

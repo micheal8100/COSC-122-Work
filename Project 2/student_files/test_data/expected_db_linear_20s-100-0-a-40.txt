@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> None
+1-> ('PH8017', 'Terrorist')
+2-> None
+3-> ('CO8794', 'Cheats at golf')
+4-> None
+5-> None
+6-> ('HF4797', 'Pavlova poacher')
+7-> ('UM2719', '')
+8-> None
+9-> None
+10-> None
+11-> None
+12-> ('IW7253', 'Terrible parallel parker')
+13-> None
+14-> None
+15-> None
+16-> None
+17-> None
+18-> ('JL8753', '')
+19-> None
+20-> None
+21-> None
+22-> None
+23-> None
+24-> ('YN0918', 'Banana burglar')
+25-> ('FO0452', '')
+26-> ('EI9718', '')
+27-> ('SJ2131', '')
+28-> ('XP3377', '')
+29-> ('YQ2457', '')
+30-> None
+31-> ('KE3151', 'Terrible parallel parker')
+32-> None
+33-> ('MM3652', 'Underage driving')
+34-> ('WT8839', 'ALL CAPS TWEETER')
+35-> ('KH6449', '')
+36-> ('LJ0075', '')
+37-> ('WE3951', 'Cheats at monopoly')
+38-> ('BS1616', '')
+39-> ('LC7216', 'Horrible colour scheme')

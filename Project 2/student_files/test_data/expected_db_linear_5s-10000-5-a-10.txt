@@ -1,0 +1,11 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> None
+3-> None
+4-> ('AP4732', '')
+5-> ('AV0031', 'Extra Terrestrial')
+6-> ('AZ6300', 'WOF expired')
+7-> ('HF7633', '')
+8-> ('UB5478', '')
+9-> None

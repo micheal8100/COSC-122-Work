@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> None
+3-> ('XY9714', '')
+4-> None
+5-> ('IZ1590', '')
+6-> None
+7-> None
+8-> None
+9-> ('NM5105', '')
+10-> ('FT5084', '')
+11-> None
+12-> None
+13-> None
+14-> ('FE6448', '')
+15-> ('RW0178', 'Ghost')
+16-> ('ST1032', 'Registration expired')
+17-> ('WX3394', 'Zombie')
+18-> ('RF0441', '')
+19-> ('BK8528', '')

@@ -1,0 +1,11 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> ('SP8651', 'Outstanding parking tickets')
+3-> ('HK6519', '')
+4-> None
+5-> None
+6-> None
+7-> ('BW1181', '')
+8-> ('PK4720', '')
+9-> ('SC3754', '')

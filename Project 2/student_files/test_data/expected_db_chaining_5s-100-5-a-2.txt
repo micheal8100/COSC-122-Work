@@ -1,0 +1,3 @@
+Chaining Hash Table:
+0-> [('GW6722', 'Drunk driver'), ('KW8748', ''), ('MH9492', '')]
+1-> [('DG2722', ''), ('GY0008', '')]

@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> None
+3-> ('XL6282', '')
+4-> ('YB3726', 'Pavlova poacher')
+5-> None
+6-> ('PR4667', '')
+7-> ('QA0439', '')
+8-> None
+9-> None
+10-> None
+11-> ('KV1086', 'Cloned plate')
+12-> ('BY8710', '')
+13-> ('PS6166', 'Registration expired')
+14-> None
+15-> ('QI3988', '')
+16-> ('RK9408', 'Bald tyres')
+17-> ('TV6435', '')
+18-> None
+19-> None

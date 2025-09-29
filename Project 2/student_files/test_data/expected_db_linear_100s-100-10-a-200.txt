@@ -1,0 +1,201 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> ('XG1597', '')
+3-> ('LX4886', 'Cheats at monopoly')
+4-> None
+5-> None
+6-> None
+7-> ('DA0744', 'Cloned plate')
+8-> None
+9-> None
+10-> None
+11-> None
+12-> None
+13-> None
+14-> ('WO1703', '')
+15-> None
+16-> ('DM2826', 'Registration expired')
+17-> ('HU6450', '')
+18-> ('KV9399', 'Zombie')
+19-> ('MV1227', '')
+20-> ('RI7797', '')
+21-> ('YV8443', '')
+22-> ('UV8453', '')
+23-> ('GZ0283', '')
+24-> None
+25-> ('UG7571', 'Wanted by Interpol')
+26-> None
+27-> None
+28-> ('WC4207', '')
+29-> None
+30-> None
+31-> None
+32-> None
+33-> None
+34-> ('BI9067', '')
+35-> None
+36-> None
+37-> None
+38-> None
+39-> None
+40-> ('YD8831', '')
+41-> None
+42-> ('XF8843', '')
+43-> None
+44-> None
+45-> ('IH5875', 'Axe murderer')
+46-> None
+47-> None
+48-> ('QK0292', '')
+49-> None
+50-> ('WJ4864', '')
+51-> ('OX0986', 'Crimes against fashion')
+52-> ('SN1528', '')
+53-> None
+54-> ('AQ5152', '')
+55-> None
+56-> None
+57-> None
+58-> None
+59-> ('EJ8173', '')
+60-> ('TD4693', '')
+61-> ('BX9805', '')
+62-> None
+63-> ('UG7869', '')
+64-> None
+65-> ('BU1637', '')
+66-> None
+67-> None
+68-> None
+69-> ('GB1673', '')
+70-> ('IA1654', '')
+71-> ('KQ0192', '')
+72-> None
+73-> ('SR4454', '')
+74-> ('JB6142', '')
+75-> ('LX2357', '')
+76-> ('NE7557', 'WOF expired')
+77-> ('MB8085', '')
+78-> ('PS3838', '')
+79-> ('XK0401', 'Body snatcher')
+80-> ('CO2177', '')
+81-> ('MW6460', '')
+82-> ('ZK2779', '')
+83-> ('CY3537', '')
+84-> ('IR6636', '')
+85-> None
+86-> ('AF8448', '')
+87-> ('VL4119', 'Loud')
+88-> None
+89-> None
+90-> ('GT2129', '')
+91-> ('HI1322', 'Vampire')
+92-> ('GN3544', '')
+93-> ('KL1644', '')
+94-> ('HJ8249', '')
+95-> ('TY4261', 'Horrible colour scheme')
+96-> ('DP9000', 'Axe murderer')
+97-> ('HY7790', '')
+98-> None
+99-> None
+100-> ('DN1806', '')
+101-> ('GY5029', 'ALL CAPS TWEETER')
+102-> ('PD0214', '')
+103-> ('YJ9701', 'Terrorist')
+104-> ('NN2171', '')
+105-> ('YS8216', 'Drifter')
+106-> None
+107-> ('CR4438', '')
+108-> ('SY3671', '')
+109-> ('JY8010', 'Drunk driver')
+110-> None
+111-> None
+112-> None
+113-> ('CB8959', 'Axe murderer')
+114-> None
+115-> None
+116-> ('VL1266', '')
+117-> ('WE6283', '')
+118-> None
+119-> None
+120-> ('YM5433', '')
+121-> ('BH4932', '')
+122-> ('LA6222', 'Drunk driver')
+123-> None
+124-> None
+125-> ('OU8307', 'ALL CAPS TWEETER')
+126-> None
+127-> None
+128-> ('ZV8968', 'Underage driving')
+129-> ('LJ5922', 'Banana burglar')
+130-> None
+131-> ('DJ1832', '')
+132-> ('YS7200', '')
+133-> None
+134-> ('YH5012', 'Extra Terrestrial')
+135-> ('JX0394', '')
+136-> None
+137-> None
+138-> ('WK1206', '')
+139-> None
+140-> None
+141-> ('EM7186', 'Terrible parallel parker')
+142-> ('GV0397', '')
+143-> None
+144-> ('MA7343', 'Drunk driver')
+145-> None
+146-> None
+147-> ('QV2265', '')
+148-> ('TF2709', '')
+149-> ('SH4548', 'Cheats at poker')
+150-> None
+151-> None
+152-> None
+153-> None
+154-> None
+155-> None
+156-> None
+157-> None
+158-> None
+159-> None
+160-> None
+161-> ('DQ4625', 'Cheats at golf')
+162-> None
+163-> None
+164-> ('QG9134', 'WOF expired')
+165-> ('NX4815', 'Snail speed')
+166-> ('VX7541', 'Cheats at monopoly')
+167-> None
+168-> None
+169-> ('MC5362', '')
+170-> ('RG6086', '')
+171-> ('NE7981', '')
+172-> ('SM8464', '')
+173-> ('AJ3912', '')
+174-> None
+175-> None
+176-> None
+177-> None
+178-> ('WQ6384', '')
+179-> None
+180-> None
+181-> None
+182-> None
+183-> None
+184-> ('WR9353', '')
+185-> None
+186-> ('GL9256', 'Drunk driver')
+187-> None
+188-> None
+189-> None
+190-> ('BD9747', '')
+191-> None
+192-> ('WJ6662', '')
+193-> ('QA6303', '')
+194-> ('YO0973', '')
+195-> None
+196-> None
+197-> ('QK7834', '')
+198-> ('UD5399', '')
+199-> None

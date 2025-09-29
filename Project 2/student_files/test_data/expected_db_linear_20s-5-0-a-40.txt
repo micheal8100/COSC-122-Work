@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> ('MT5614', 'Registration expired')
+3-> None
+4-> ('WH8491', '')
+5-> None
+6-> None
+7-> ('DH5900', 'Drunk driver')
+8-> None
+9-> None
+10-> ('XV8087', '')
+11-> ('IQ0453', '')
+12-> None
+13-> ('EU6372', '')
+14-> ('EO0434', 'Bogun')
+15-> None
+16-> None
+17-> None
+18-> ('AA8991', 'Tomato thief')
+19-> None
+20-> None
+21-> None
+22-> None
+23-> None
+24-> ('TA8345', 'Cheats at golf')
+25-> None
+26-> None
+27-> ('QK5733', '')
+28-> ('PU9733', '')
+29-> ('CA3359', 'Illegal parker')
+30-> ('DG6307', '')
+31-> ('PX0275', 'Banana burglar')
+32-> ('RL4416', '')
+33-> ('TV9389', '')
+34-> ('UR8502', 'Underage driving')
+35-> ('UW8677', 'Pavlova poacher')
+36-> None
+37-> None
+38-> ('XG1180', '')
+39-> ('HQ8955', '')

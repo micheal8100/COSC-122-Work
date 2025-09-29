@@ -1,0 +1,3 @@
+Chaining Hash Table:
+0-> [('AP4732', ''), ('AV0031', 'Extra Terrestrial'), ('HF7633', ''), ('UB5478', '')]
+1-> [('AZ6300', 'WOF expired')]

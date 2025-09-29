@@ -1,0 +1,201 @@
+Linear Hash Table:
+0-> ('HC7975', '')
+1-> None
+2-> None
+3-> None
+4-> None
+5-> ('EW9487', '')
+6-> ('TC3911', '')
+7-> None
+8-> None
+9-> None
+10-> ('RC5883', '')
+11-> None
+12-> ('MF6417', '')
+13-> ('EH8564', '')
+14-> ('US7975', '')
+15-> ('TG4456', '')
+16-> None
+17-> None
+18-> None
+19-> None
+20-> ('FW7951', 'Terrorist')
+21-> ('FZ3936', 'Pavlova poacher')
+22-> None
+23-> ('HA8999', 'Vampire')
+24-> ('GI0447', '')
+25-> None
+26-> ('OU0175', 'Drifter')
+27-> None
+28-> None
+29-> None
+30-> None
+31-> ('NG7356', 'ALL CAPS TWEETER')
+32-> ('LI7054', 'Internet troll')
+33-> None
+34-> ('FZ0665', '')
+35-> None
+36-> ('EY5819', 'Jail-breaker')
+37-> ('TE6808', 'Body snatcher')
+38-> ('HV7972', 'Werewolf')
+39-> ('IT3847', 'Horrible colour scheme')
+40-> ('YP2168', '')
+41-> ('TX7144', '')
+42-> ('IQ0058', '')
+43-> ('ZF5362', '')
+44-> ('QF4037', '')
+45-> None
+46-> None
+47-> ('RH5245', '')
+48-> ('SG5709', '')
+49-> ('UW4464', 'Strudel stealer')
+50-> None
+51-> ('FZ9180', '')
+52-> ('SF9240', '')
+53-> ('WL3226', '')
+54-> None
+55-> None
+56-> None
+57-> None
+58-> None
+59-> None
+60-> None
+61-> ('KQ5146', 'Ghost')
+62-> ('IU6320', '')
+63-> ('IN2236', '')
+64-> ('IT3791', 'Snail speed')
+65-> ('KN6212', '')
+66-> ('CX7799', 'Ghost')
+67-> ('QR8761', '')
+68-> ('VT2921', 'Internet troll')
+69-> ('YJ5823', '')
+70-> None
+71-> None
+72-> None
+73-> ('DV5904', '')
+74-> None
+75-> ('QK1207', 'Ghost')
+76-> ('RT2403', 'Internet troll')
+77-> ('FM0951', 'Internet troll')
+78-> None
+79-> None
+80-> None
+81-> ('ML2957', '')
+82-> ('EL4037', '')
+83-> ('JF7331', 'Zombie')
+84-> ('XC8033', '')
+85-> None
+86-> None
+87-> None
+88-> ('CK0463', 'Underage driving')
+89-> ('FY3424', '')
+90-> ('OS1737', 'Werewolf')
+91-> None
+92-> None
+93-> None
+94-> None
+95-> None
+96-> None
+97-> None
+98-> None
+99-> None
+100-> ('YP5942', '')
+101-> None
+102-> None
+103-> None
+104-> None
+105-> None
+106-> None
+107-> ('AT2326', '')
+108-> ('IP9090', '')
+109-> ('LJ4835', '')
+110-> ('NZ1092', '')
+111-> ('FV4514', '')
+112-> ('FA8123', '')
+113-> ('BW0135', '')
+114-> ('HR6857', 'Terrible parallel parker')
+115-> None
+116-> None
+117-> None
+118-> None
+119-> None
+120-> None
+121-> ('RQ9084', 'Horrible colour scheme')
+122-> ('FZ2973', '')
+123-> ('CF8162', '')
+124-> ('FB5764', '')
+125-> ('CI7683', '')
+126-> None
+127-> None
+128-> None
+129-> None
+130-> ('DB0825', '')
+131-> ('HI0744', 'Drifter')
+132-> ('HP0586', '')
+133-> ('RI3292', 'Pavlova poacher')
+134-> ('SV4929', '')
+135-> None
+136-> None
+137-> None
+138-> None
+139-> None
+140-> None
+141-> None
+142-> None
+143-> None
+144-> None
+145-> None
+146-> None
+147-> ('PE7158', '')
+148-> ('PP9647', '')
+149-> ('AD8670', '')
+150-> ('PR7046', 'Registration expired')
+151-> ('TN6705', '')
+152-> ('XB2090', '')
+153-> ('GQ6020', '')
+154-> ('IK8321', '')
+155-> None
+156-> None
+157-> None
+158-> None
+159-> ('YV7024', '')
+160-> None
+161-> None
+162-> ('DB3154', '')
+163-> None
+164-> None
+165-> None
+166-> None
+167-> ('XU8340', '')
+168-> None
+169-> None
+170-> ('YI0344', '')
+171-> None
+172-> None
+173-> None
+174-> None
+175-> None
+176-> None
+177-> ('GT8621', 'Bogun')
+178-> ('YV2208', 'Terrible parallel parker')
+179-> ('BU9125', 'Crimes against fashion')
+180-> ('FY6696', 'Slow at drive-through')
+181-> ('GZ1151', '')
+182-> None
+183-> None
+184-> None
+185-> ('DA6818', '')
+186-> None
+187-> ('AS7546', '')
+188-> ('SJ9147', '')
+189-> ('AZ1532', '')
+190-> ('KN6875', 'Zombie')
+191-> ('AZ8397', '')
+192-> ('GW8286', '')
+193-> ('KX5222', '')
+194-> ('MG2448', '')
+195-> ('QJ4861', 'Terrorist')
+196-> ('XQ5074', '')
+197-> ('DC4869', '')
+198-> ('KY1119', 'Banana burglar')
+199-> None

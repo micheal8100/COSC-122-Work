@@ -1,0 +1,6 @@
+Chaining Hash Table:
+0-> [('QI3988', ''), ('RK9408', 'Bald tyres')]
+1-> [('KV1086', 'Cloned plate'), ('PR4667', '')]
+2-> [('BY8710', ''), ('QA0439', ''), ('TV6435', '')]
+3-> [('PS6166', 'Registration expired'), ('XL6282', '')]
+4-> [('YB3726', 'Pavlova poacher')]

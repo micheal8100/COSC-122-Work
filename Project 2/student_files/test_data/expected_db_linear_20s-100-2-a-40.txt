@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> ('PI2152', '')
+1-> ('HC0274', 'Axe murderer')
+2-> None
+3-> None
+4-> None
+5-> None
+6-> None
+7-> ('AK9117', '')
+8-> ('HI8748', '')
+9-> None
+10-> ('ZG8839', 'Loud')
+11-> None
+12-> None
+13-> ('XD7812', 'Cheats at golf')
+14-> ('ZK2700', '')
+15-> ('LI4919', '')
+16-> None
+17-> None
+18-> None
+19-> None
+20-> ('FS5805', '')
+21-> None
+22-> None
+23-> None
+24-> None
+25-> ('GG6141', '')
+26-> ('DL3066', 'Extra Terrestrial')
+27-> ('TW4576', '')
+28-> None
+29-> ('FE4111', '')
+30-> None
+31-> ('AO6303', '')
+32-> None
+33-> ('XJ6088', '')
+34-> ('BG3867', 'Vampire')
+35-> ('CM2308', 'Terrible parallel parker')
+36-> ('GT5197', '')
+37-> ('LM3392', '')
+38-> ('PP3606', 'Loud')
+39-> None

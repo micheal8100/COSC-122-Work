@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> ('HO7904', '')
+1-> None
+2-> None
+3-> None
+4-> ('OS0728', '')
+5-> ('DZ6545', 'Horrible colour scheme')
+6-> None
+7-> None
+8-> None
+9-> ('OI9029', '')
+10-> ('BA3601', '')
+11-> ('XB6782', 'Werewolf')
+12-> ('XQ8905', 'Snail speed')
+13-> None
+14-> None
+15-> ('PK6289', '')
+16-> ('SY9369', 'Slow at drive-through')
+17-> ('MJ4474', '')
+18-> None
+19-> None

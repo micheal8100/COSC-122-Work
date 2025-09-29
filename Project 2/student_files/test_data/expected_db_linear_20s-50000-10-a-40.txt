@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> ('EV8730', '')
+1-> None
+2-> ('LL5895', '')
+3-> ('LW1419', 'Outstanding parking tickets')
+4-> ('UK0887', 'Strudel stealer')
+5-> ('XO1814', '')
+6-> None
+7-> None
+8-> ('NB7617', '')
+9-> None
+10-> None
+11-> ('ZN1478', '')
+12-> None
+13-> None
+14-> None
+15-> None
+16-> None
+17-> None
+18-> ('JJ6331', 'ALL CAPS TWEETER')
+19-> None
+20-> ('OJ8862', 'Crimes against fashion')
+21-> None
+22-> None
+23-> None
+24-> None
+25-> None
+26-> ('KD2006', '')
+27-> ('BM9640', 'Drifter')
+28-> ('WY8362', '')
+29-> ('DU9886', 'Terrible parallel parker')
+30-> ('GI5860', 'Wanted by Interpol')
+31-> ('CM2659', '')
+32-> ('WD1753', 'Snail speed')
+33-> ('SV6746', '')
+34-> ('RJ8056', '')
+35-> ('ZR8402', 'Crimes against fashion')
+36-> ('PD1462', '')
+37-> None
+38-> None
+39-> None

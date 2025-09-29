@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> ('OE8223', '')
+1-> None
+2-> None
+3-> ('LV8884', 'Wanted by Interpol')
+4-> None
+5-> ('BM4322', '')
+6-> ('FE5067', 'Underage driving')
+7-> ('TT5805', 'Werewolf')
+8-> ('WF0237', 'Body snatcher')
+9-> None
+10-> None
+11-> None
+12-> None
+13-> ('HM0355', '')
+14-> ('NT3076', 'Illegal parker')
+15-> ('LH5117', '')
+16-> ('SV8231', '')
+17-> None
+18-> None
+19-> ('PU6337', '')
+20-> None
+21-> None
+22-> ('MH2325', 'Tomato thief')
+23-> ('AR8955', '')
+24-> ('MH4364', 'Slow at drive-through')
+25-> ('ZX0599', '')
+26-> ('ZH8146', 'Terrible parallel parker')
+27-> None
+28-> None
+29-> None
+30-> None
+31-> None
+32-> None
+33-> ('WX0746', '')
+34-> None
+35-> None
+36-> ('NF3565', '')
+37-> ('JL2040', '')
+38-> None
+39-> ('FQ8052', '')

@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> ('WN0734', 'ALL CAPS TWEETER')
+3-> ('SL7190', 'Wanted by Interpol')
+4-> ('IP3092', 'Suspended driving licence')
+5-> ('DP8787', '')
+6-> None
+7-> None
+8-> None
+9-> None
+10-> ('UL4451', '')
+11-> None
+12-> ('GB2411', '')
+13-> ('WS4100', '')
+14-> ('FH9336', '')
+15-> ('KJ1882', 'Underage driving')
+16-> None
+17-> None
+18-> None
+19-> ('HF3562', '')

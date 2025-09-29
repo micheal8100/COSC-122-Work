@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> ('ZO4071', 'Strudel stealer')
+3-> ('WO1986', '')
+4-> ('JL5693', '')
+5-> ('RQ7489', '')
+6-> None
+7-> ('PM4649', 'Zombie')
+8-> ('RL0141', '')
+9-> ('JB2305', 'Werewolf')
+10-> ('XJ8297', 'Drifter')
+11-> None
+12-> ('GV9869', '')
+13-> None
+14-> None
+15-> None
+16-> ('LJ9114', '')
+17-> ('LX1466', '')
+18-> None
+19-> ('GR6681', '')
+20-> ('LA4198', '')
+21-> ('QJ7494', '')
+22-> ('ZT6989', '')
+23-> None
+24-> None
+25-> None
+26-> ('WU2502', '')
+27-> None
+28-> None
+29-> None
+30-> ('FZ0584', 'Internet troll')
+31-> None
+32-> None
+33-> None
+34-> None
+35-> ('WW0237', 'Cheats at golf')
+36-> ('WM7064', '')
+37-> ('NS5547', '')
+38-> None
+39-> None

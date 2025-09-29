@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> ('OY1057', 'Crimes against fashion')
+1-> None
+2-> ('LZ3297', 'Outstanding parking tickets')
+3-> ('AH7123', 'Tomato thief')
+4-> ('KM1179', 'Texts while driving')
+5-> ('AA9801', '')
+6-> ('OL4632', '')
+7-> ('QY0578', '')
+8-> ('UK3378', 'Outstanding parking tickets')
+9-> ('RY1075', '')
+10-> None
+11-> ('RH4682', '')
+12-> None
+13-> None
+14-> None
+15-> None
+16-> None
+17-> None
+18-> None
+19-> None

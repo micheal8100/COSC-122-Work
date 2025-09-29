@@ -1,0 +1,11 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> ('PJ3967', '')
+3-> ('SF2648', '')
+4-> ('TC0393', '')
+5-> ('AU7768', 'Crimes against fashion')
+6-> None
+7-> ('OH9671', '')
+8-> None
+9-> None

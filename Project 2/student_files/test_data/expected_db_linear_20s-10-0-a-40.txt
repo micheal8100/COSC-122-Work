@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> ('NI4299', '')
+1-> ('YO4938', 'Internet troll')
+2-> ('IQ3855', 'Werewolf')
+3-> ('TL7365', 'Texts while driving')
+4-> None
+5-> None
+6-> None
+7-> ('SC4743', '')
+8-> None
+9-> None
+10-> ('NZ8456', 'Crimes against fashion')
+11-> None
+12-> None
+13-> ('OV7389', 'Cheats at poker')
+14-> None
+15-> None
+16-> ('NQ5087', 'Strudel stealer')
+17-> ('AG3984', '')
+18-> ('MX5413', '')
+19-> ('TH5737', 'Crimes against fashion')
+20-> None
+21-> None
+22-> None
+23-> None
+24-> None
+25-> ('WB1501', '')
+26-> None
+27-> None
+28-> ('TK1241', '')
+29-> ('UV9789', '')
+30-> ('RE7043', '')
+31-> None
+32-> None
+33-> ('MB5002', '')
+34-> ('PK2952', '')
+35-> ('UU0943', 'Jail-breaker')
+36-> ('TP7011', '')
+37-> None
+38-> ('HK6480', '')
+39-> None

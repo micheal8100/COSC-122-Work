@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> ('UU2087', '')
+1-> ('WW1452', '')
+2-> ('HO8330', 'Suspended driving licence')
+3-> None
+4-> ('PG6055', 'Pavlova poacher')
+5-> None
+6-> ('PB1552', '')
+7-> None
+8-> None
+9-> None
+10-> None
+11-> None
+12-> None
+13-> ('DM7714', '')
+14-> ('FB9675', 'Strudel stealer')
+15-> ('GK0534', '')
+16-> ('OQ1703', 'Werewolf')
+17-> ('RB6950', '')
+18-> ('YH3849', '')
+19-> None
+20-> ('QX6929', '')
+21-> ('SZ7052', 'Snail speed')
+22-> None
+23-> None
+24-> None
+25-> ('AI9809', 'Extra Terrestrial')
+26-> None
+27-> None
+28-> ('BR8968', '')
+29-> None
+30-> ('AY5949', 'Tomato thief')
+31-> None
+32-> ('QK8999', 'Illegal parker')
+33-> ('SQ9076', '')
+34-> None
+35-> None
+36-> ('QX8633', '')
+37-> ('XX6311', '')
+38-> None
+39-> None

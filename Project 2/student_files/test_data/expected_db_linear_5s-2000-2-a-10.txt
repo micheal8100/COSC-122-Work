@@ -1,0 +1,11 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> ('US8090', 'Extra Terrestrial')
+3-> ('UZ7225', '')
+4-> ('OY0342', 'ALL CAPS TWEETER')
+5-> ('CY3917', '')
+6-> None
+7-> None
+8-> ('UC8364', '')
+9-> None

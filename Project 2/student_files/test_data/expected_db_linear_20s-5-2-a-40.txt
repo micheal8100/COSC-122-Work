@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> ('WA2834', '')
+1-> None
+2-> None
+3-> None
+4-> None
+5-> ('TA5158', 'Cheats at monopoly')
+6-> ('GY8243', '')
+7-> ('LY3925', 'Extra Terrestrial')
+8-> ('UR1820', 'Wanted by Interpol')
+9-> None
+10-> ('FK3180', '')
+11-> ('LX2668', 'Strudel stealer')
+12-> ('AE5536', 'Slow at drive-through')
+13-> ('FK1918', '')
+14-> ('NS1265', '')
+15-> ('OF4234', 'Cheats at monopoly')
+16-> ('TF9968', '')
+17-> None
+18-> ('YI4274', '')
+19-> None
+20-> ('UR0217', '')
+21-> None
+22-> None
+23-> ('MP9990', '')
+24-> ('PL1210', 'Drunk driver')
+25-> ('IN9576', 'Drifter')
+26-> None
+27-> None
+28-> None
+29-> None
+30-> ('XH6814', '')
+31-> None
+32-> None
+33-> None
+34-> None
+35-> None
+36-> ('WL5737', 'Terrorist')
+37-> ('XB7973', '')
+38-> None
+39-> None

@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> ('WT9289', '')
+3-> ('NW4476', '')
+4-> ('UW8709', '')
+5-> ('XR4303', '')
+6-> None
+7-> ('KN9958', 'Tomato thief')
+8-> ('DJ6560', '')
+9-> ('WM7381', 'Bald tyres')
+10-> None
+11-> ('AE6190', '')
+12-> ('PN2723', 'Illegal parker')
+13-> ('TA6467', 'Zombie')
+14-> ('WZ9187', '')
+15-> None
+16-> None
+17-> ('AW4149', 'Cloned plate')
+18-> ('LG7095', 'Slow at drive-through')
+19-> None
+20-> None
+21-> None
+22-> ('YC5312', '')
+23-> None
+24-> None
+25-> None
+26-> None
+27-> None
+28-> None
+29-> None
+30-> ('GT5425', 'Cheats at golf')
+31-> ('YM5754', '')
+32-> None
+33-> ('BV3463', 'Banana burglar')
+34-> ('QC6833', '')
+35-> ('FC3024', '')
+36-> ('UJ8857', '')
+37-> None
+38-> None
+39-> None

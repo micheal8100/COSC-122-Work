@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> None
+3-> ('UT5240', '')
+4-> ('GJ5155', '')
+5-> ('BQ5422', 'Illegal parker')
+6-> ('ME1583', 'Cloned plate')
+7-> ('JT1605', '')
+8-> ('YU8963', '')
+9-> None
+10-> None
+11-> ('RR0727', 'Extra Terrestrial')
+12-> None
+13-> None
+14-> None
+15-> ('LX5395', 'Ghost')
+16-> ('SC1256', '')
+17-> ('FY1673', 'Horrible colour scheme')
+18-> None
+19-> None

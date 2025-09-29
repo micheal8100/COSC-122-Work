@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> ('QK0601', 'Banana burglar')
+1-> None
+2-> None
+3-> ('DS7563', 'Terrible parallel parker')
+4-> ('OP7519', '')
+5-> ('NM0920', '')
+6-> None
+7-> ('YU5278', '')
+8-> None
+9-> None
+10-> None
+11-> None
+12-> ('CZ1762', '')
+13-> None
+14-> ('AS2151', 'Slow at drive-through')
+15-> ('IL5222', 'Ghost')
+16-> None
+17-> ('HX0329', 'Snail speed')
+18-> ('QN1537', 'Body snatcher')
+19-> None
+20-> ('KB6271', 'Crimes against fashion')
+21-> None
+22-> None
+23-> ('TA2272', '')
+24-> None
+25-> None
+26-> None
+27-> None
+28-> None
+29-> None
+30-> ('KF0239', '')
+31-> ('GU4301', '')
+32-> ('LB1297', '')
+33-> None
+34-> ('LD6476', '')
+35-> ('DT7450', 'Cheats at monopoly')
+36-> ('YN3226', '')
+37-> ('KU8303', '')
+38-> None
+39-> ('TL5070', 'Internet troll')

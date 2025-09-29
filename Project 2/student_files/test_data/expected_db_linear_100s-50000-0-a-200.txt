@@ -1,0 +1,201 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> None
+3-> ('SO2341', 'Crimes against fashion')
+4-> None
+5-> None
+6-> ('CF9544', '')
+7-> None
+8-> None
+9-> ('NT8789', '')
+10-> None
+11-> None
+12-> ('HW2381', 'Horrible colour scheme')
+13-> None
+14-> ('NX8520', 'Body snatcher')
+15-> ('YE8766', '')
+16-> None
+17-> ('EV4298', '')
+18-> ('UW3220', 'ALL CAPS TWEETER')
+19-> None
+20-> ('JX0535', 'Strudel stealer')
+21-> ('UV5881', 'Cheats at poker')
+22-> ('RB9284', '')
+23-> None
+24-> None
+25-> None
+26-> ('YD1632', '')
+27-> None
+28-> None
+29-> None
+30-> None
+31-> ('IW0464', 'Terrible parallel parker')
+32-> ('PH3357', '')
+33-> None
+34-> None
+35-> ('GA4741', '')
+36-> ('WG9381', '')
+37-> ('SF2764', 'WOF expired')
+38-> ('SH8926', 'Slow at drive-through')
+39-> None
+40-> None
+41-> None
+42-> ('DB1596', 'Extra Terrestrial')
+43-> ('LB3931', '')
+44-> ('VR4146', '')
+45-> ('XL8244', 'Slow at drive-through')
+46-> None
+47-> None
+48-> ('CS3246', '')
+49-> None
+50-> None
+51-> None
+52-> None
+53-> None
+54-> None
+55-> None
+56-> None
+57-> ('AX0713', '')
+58-> ('MZ0346', '')
+59-> ('NC3204', '')
+60-> ('PE6020', 'Bald tyres')
+61-> None
+62-> ('CK0065', '')
+63-> ('EO7069', '')
+64-> ('VE9389', '')
+65-> ('YI0320', '')
+66-> None
+67-> ('MM2514', 'Texts while driving')
+68-> None
+69-> None
+70-> ('FJ0706', '')
+71-> ('IJ6792', 'Wanted by Interpol')
+72-> None
+73-> None
+74-> None
+75-> ('FO1325', '')
+76-> None
+77-> ('ZD6530', 'Body snatcher')
+78-> None
+79-> ('ZZ6332', 'Suspended driving licence')
+80-> ('CA5912', '')
+81-> ('FP3054', '')
+82-> ('VE6541', '')
+83-> None
+84-> None
+85-> None
+86-> None
+87-> None
+88-> None
+89-> ('DX8800', '')
+90-> ('LV6057', 'Terrible parallel parker')
+91-> ('VK3557', '')
+92-> ('XL3448', '')
+93-> None
+94-> ('JW4040', '')
+95-> None
+96-> None
+97-> None
+98-> None
+99-> None
+100-> None
+101-> ('NN7957', 'Drifter')
+102-> ('LB5321', 'Horrible colour scheme')
+103-> None
+104-> ('YU2533', 'Horrible colour scheme')
+105-> None
+106-> None
+107-> None
+108-> ('CG9279', 'WOF expired')
+109-> ('LU3076', '')
+110-> ('OB4226', '')
+111-> ('VI0645', '')
+112-> ('XA1513', 'Cheats at monopoly')
+113-> ('XQ1646', 'Horrible colour scheme')
+114-> ('BA1438', 'Cheats at golf')
+115-> ('CL0224', 'Cheats at golf')
+116-> ('KX5681', 'Horrible colour scheme')
+117-> None
+118-> ('MM6009', '')
+119-> None
+120-> None
+121-> None
+122-> ('KT2594', '')
+123-> None
+124-> ('PO8848', 'Crimes against fashion')
+125-> None
+126-> ('VR9860', '')
+127-> None
+128-> None
+129-> None
+130-> None
+131-> None
+132-> None
+133-> ('NX8671', 'Tomato thief')
+134-> None
+135-> None
+136-> None
+137-> ('LL3922', '')
+138-> None
+139-> ('DP2660', 'Outstanding parking tickets')
+140-> ('GA2023', 'Loud')
+141-> ('AM7090', 'Loud')
+142-> ('OI6873', 'ALL CAPS TWEETER')
+143-> ('PR8825', '')
+144-> ('KI7763', 'Suspended driving licence')
+145-> ('SZ2536', 'Axe murderer')
+146-> ('VR8810', 'Bogun')
+147-> ('YF3412', '')
+148-> ('ZO7621', 'Vampire')
+149-> ('PJ5261', 'Horrible colour scheme')
+150-> ('UG2442', 'Zombie')
+151-> None
+152-> ('SP5607', '')
+153-> ('DL8260', 'ALL CAPS TWEETER')
+154-> ('UA9855', 'ALL CAPS TWEETER')
+155-> ('UO5888', 'Drifter')
+156-> ('UP5919', '')
+157-> ('SA3562', '')
+158-> ('YN1936', '')
+159-> None
+160-> None
+161-> None
+162-> ('KR3634', '')
+163-> None
+164-> ('WM7907', '')
+165-> ('FO7787', 'Registration expired')
+166-> ('KV3565', '')
+167-> None
+168-> None
+169-> None
+170-> None
+171-> None
+172-> None
+173-> None
+174-> None
+175-> ('WK4628', '')
+176-> None
+177-> ('IK4303', '')
+178-> ('JU1295', 'Cheats at monopoly')
+179-> None
+180-> None
+181-> ('LS6676', 'Tomato thief')
+182-> ('WB8110', 'Strudel stealer')
+183-> None
+184-> None
+185-> ('LN4730', '')
+186-> ('NQ3447', 'Vampire')
+187-> None
+188-> None
+189-> ('DF2318', '')
+190-> ('XE4927', 'Crimes against fashion')
+191-> ('WX9967', 'Bogun')
+192-> None
+193-> ('IV3897', 'Cloned plate')
+194-> None
+195-> ('GM4411', '')
+196-> ('FR5981', 'Crimes against fashion')
+197-> None
+198-> ('MR6442', '')
+199-> None

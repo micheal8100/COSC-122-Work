@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> ('GD7425', '')
+1-> None
+2-> ('TM3922', '')
+3-> ('AD8728', 'Wanted by Interpol')
+4-> ('JL4759', '')
+5-> None
+6-> None
+7-> None
+8-> ('FD5600', 'Zombie')
+9-> None
+10-> ('TP3831', '')
+11-> None
+12-> ('JZ9967', 'Crimes against fashion')
+13-> None
+14-> ('OW9817', '')
+15-> None
+16-> ('ND8016', '')
+17-> None
+18-> None
+19-> ('SU6800', '')

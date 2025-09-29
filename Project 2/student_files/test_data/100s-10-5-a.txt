@@ -1,0 +1,121 @@
+database=100
+AA8797:
+AE9935:
+AP0919:Wanted by Interpol
+AS0907:
+AV3068:Werewolf
+BE0740:Cheats at monopoly
+CF8960:
+CO4829:Illegal parker
+CP8672:Cloned plate
+CT5881:
+CW6798:Internet troll
+DB6114:Pavlova poacher
+DM5674:
+DZ1392:
+EC7926:
+EE5746:
+EE7658:Snail speed
+EI4845:Body snatcher
+EM1567:
+EQ5608:
+EQ7061:
+FR3053:
+GD0344:Registration expired
+GN4846:
+HB2023:Cheats at poker
+HL0264:
+HN0862:
+IR7466:Slow at drive-through
+IS8552:
+JB0605:Jail-breaker
+JB7121:
+JI2868:
+JQ1871:Suspended driving licence
+KD1235:Slow at drive-through
+KR7980:
+LF1922:Cheats at monopoly
+LF6653:Registration expired
+LU3322:
+LW1314:
+LZ7894:
+LZ9418:Slow at drive-through
+ML7783:
+MQ0625:
+MZ5608:Texts while driving
+NC7094:
+OF0721:Illegal parker
+OM8933:Drifter
+ON7858:
+OR5547:
+PB8858:
+PD0745:ALL CAPS TWEETER
+PF2227:Pavlova poacher
+PF3173:
+PF6164:
+PF7686:
+PH3191:
+PH9263:Crimes against fashion
+PP4612:Cloned plate
+PR9193:
+QA0123:Pavlova poacher
+QC1809:Vampire
+QE0000:
+QE6725:Bald tyres
+QI2417:
+QL2961:
+QO3181:
+QP5594:
+RL7607:Axe murderer
+RR7261:Texts while driving
+SC8236:
+SD6786:Terrorist
+SK2758:
+SL4792:
+SS1143:
+SV4057:Terrorist
+SV5126:Pavlova poacher
+SV6839:Cheats at golf
+TL2310:
+UE8694:Vampire
+UG9169:
+UV3547:
+UV3650:
+VA1391:Strudel stealer
+VI1156:
+VW9084:
+WQ9103:
+XF9800:Body snatcher
+XG5252:Horrible colour scheme
+XL2665:Cheats at poker
+XL3914:ALL CAPS TWEETER
+XL8037:Strudel stealer
+XM3127:Cheats at monopoly
+XQ4565:Drifter
+YB8475:
+YJ1190:
+YM9111:
+YN1046:
+ZR4197:Jail-breaker
+ZS0268:Vampire
+ZU6613:
+
+sightings=10
+VW9084;2018-01-19T11:46:31
+JQ1871;2018-01-19T11:46:57
+BE0740;2018-01-19T11:47:46
+PF2227;2018-01-19T11:48:41
+GH2829;2018-01-19T11:48:56
+PF3173;2018-01-19T11:49:25
+QP5594;2018-01-19T11:50:06
+LZ9418;2018-01-19T11:50:06
+QO3181;2018-01-19T11:50:40
+XQ4565;2018-01-19T11:50:42
+
+seen+flagged=5,5
+BE0740;2018-01-19T11:47:46
+JQ1871;2018-01-19T11:46:57
+LZ9418;2018-01-19T11:50:06
+PF2227;2018-01-19T11:48:41
+XQ4565;2018-01-19T11:50:42
+

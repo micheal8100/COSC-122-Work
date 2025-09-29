@@ -1,0 +1,6 @@
+Chaining Hash Table:
+0-> [('BA7576', ''), ('DQ8524', 'Cheats at golf'), ('OY2985', 'Wanted by Interpol'), ('RC9872', ''), ('SB6800', 'Internet troll'), ('SX6295', 'Slow at drive-through'), ('XR0917', '')]
+1-> [('AG1881', 'Banana burglar'), ('IN7422', '')]
+2-> [('BO6665', '')]
+3-> []
+4-> []

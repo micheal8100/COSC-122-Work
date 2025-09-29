@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> ('UZ5373', 'Illegal parker')
+1-> ('YT3952', '')
+2-> ('HX6753', 'Suspended driving licence')
+3-> None
+4-> ('NU5421', '')
+5-> None
+6-> None
+7-> None
+8-> None
+9-> None
+10-> None
+11-> None
+12-> None
+13-> None
+14-> ('GJ3216', '')
+15-> None
+16-> None
+17-> ('HM0636', '')
+18-> None
+19-> None
+20-> None
+21-> None
+22-> None
+23-> ('WW7261', 'Underage driving')
+24-> None
+25-> ('FQ1178', 'Illegal parker')
+26-> ('ON3577', '')
+27-> ('UJ8444', '')
+28-> ('XF3873', '')
+29-> ('EX4869', '')
+30-> ('RZ9371', '')
+31-> ('DA3947', 'Underage driving')
+32-> ('XX5465', '')
+33-> ('SF6715', '')
+34-> ('UB6125', 'Wanted by Interpol')
+35-> ('YV0205', '')
+36-> ('XG3870', '')
+37-> None
+38-> None
+39-> ('EM4488', 'Internet troll')

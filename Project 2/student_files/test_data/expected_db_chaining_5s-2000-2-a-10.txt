@@ -1,0 +1,11 @@
+Chaining Hash Table:
+0-> []
+1-> []
+2-> [('US8090', 'Extra Terrestrial'), ('UZ7225', '')]
+3-> []
+4-> [('OY0342', 'ALL CAPS TWEETER')]
+5-> [('CY3917', '')]
+6-> []
+7-> []
+8-> [('UC8364', '')]
+9-> []

@@ -1,0 +1,33 @@
+database=20
+AE5536:Slow at drive-through
+FK1918:
+FK3180:
+GY8243:
+IN9576:Drifter
+LX2668:Strudel stealer
+LY3925:Extra Terrestrial
+MP9990:
+NS1265:
+OF4234:Cheats at monopoly
+PL1210:Drunk driver
+TA5158:Cheats at monopoly
+TF9968:
+UR0217:
+UR1820:Wanted by Interpol
+WA2834:
+WL5737:Terrorist
+XB7973:
+XH6814:
+YI4274:
+
+sightings=5
+YI4274;2017-09-13T10:40:18
+UR1820;2017-09-13T10:40:35
+LX2668;2017-09-13T10:41:33
+GY8243;2017-09-13T10:42:17
+AL6899;2017-09-13T10:43:06
+
+seen+flagged=2,2
+LX2668;2017-09-13T10:41:33
+UR1820;2017-09-13T10:40:35
+

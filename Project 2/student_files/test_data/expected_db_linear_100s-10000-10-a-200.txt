@@ -1,0 +1,201 @@
+Linear Hash Table:
+0-> ('BX7758', 'Tomato thief')
+1-> ('IU9580', 'Internet troll')
+2-> ('EC6278', 'Horrible colour scheme')
+3-> None
+4-> ('SF6770', '')
+5-> ('RY9619', '')
+6-> ('TC0670', 'Registration expired')
+7-> None
+8-> None
+9-> None
+10-> None
+11-> None
+12-> None
+13-> ('BO0023', '')
+14-> None
+15-> ('LB4817', '')
+16-> None
+17-> ('RM8472', '')
+18-> ('AJ1861', '')
+19-> None
+20-> None
+21-> None
+22-> None
+23-> None
+24-> None
+25-> None
+26-> None
+27-> None
+28-> ('NW2624', 'Terrible parallel parker')
+29-> ('RV8912', 'WOF expired')
+30-> ('WY8029', '')
+31-> ('DB0048', '')
+32-> None
+33-> None
+34-> None
+35-> None
+36-> ('PF2128', '')
+37-> ('SG4972', '')
+38-> ('SK6344', 'Strudel stealer')
+39-> ('HU7514', '')
+40-> ('RF4227', '')
+41-> ('FA3631', '')
+42-> ('QR6604', 'Drunk driver')
+43-> ('KV4809', 'Slow at drive-through')
+44-> ('YJ5180', '')
+45-> ('YO6025', 'Bald tyres')
+46-> ('ZC4148', '')
+47-> None
+48-> ('BY8035', '')
+49-> ('RB7360', '')
+50-> ('AW3844', '')
+51-> None
+52-> ('XP5703', 'Texts while driving')
+53-> ('UY8811', '')
+54-> ('FL9923', 'Cheats at golf')
+55-> ('RJ5386', '')
+56-> ('WB7561', '')
+57-> ('LV6574', '')
+58-> ('HC7951', '')
+59-> None
+60-> None
+61-> None
+62-> ('NJ0944', '')
+63-> None
+64-> None
+65-> None
+66-> None
+67-> ('OO9223', 'ALL CAPS TWEETER')
+68-> ('EP8112', '')
+69-> None
+70-> None
+71-> ('LA0829', 'Banana burglar')
+72-> ('XR8261', '')
+73-> None
+74-> None
+75-> None
+76-> None
+77-> ('OB2427', '')
+78-> ('YJ2451', 'Snail speed')
+79-> None
+80-> ('XV7408', 'Cheats at poker')
+81-> None
+82-> None
+83-> None
+84-> ('UP1348', '')
+85-> None
+86-> None
+87-> None
+88-> None
+89-> ('NC0908', 'Internet troll')
+90-> ('IB8365', '')
+91-> ('YJ4875', 'Extra Terrestrial')
+92-> None
+93-> None
+94-> None
+95-> None
+96-> None
+97-> ('WB5844', 'Illegal parker')
+98-> None
+99-> None
+100-> None
+101-> None
+102-> None
+103-> None
+104-> None
+105-> ('MI7937', 'Drifter')
+106-> ('JX8168', 'Cheats at monopoly')
+107-> ('UA6545', '')
+108-> ('VN3227', '')
+109-> None
+110-> None
+111-> ('TF8435', '')
+112-> None
+113-> ('IY3106', 'Zombie')
+114-> None
+115-> ('EB6917', '')
+116-> ('RQ1918', '')
+117-> None
+118-> None
+119-> None
+120-> ('IP0912', '')
+121-> None
+122-> None
+123-> None
+124-> None
+125-> ('GB9376', '')
+126-> ('PI6396', '')
+127-> ('RM8841', '')
+128-> ('QN1922', '')
+129-> ('IJ3787', '')
+130-> ('FA7960', '')
+131-> ('OG9311', '')
+132-> ('RN9166', '')
+133-> ('WK0580', '')
+134-> ('XT5458', 'ALL CAPS TWEETER')
+135-> None
+136-> None
+137-> None
+138-> None
+139-> ('PY2074', '')
+140-> ('FK6651', 'WOF expired')
+141-> ('VM6054', 'Bogun')
+142-> None
+143-> ('KM7407', 'Extra Terrestrial')
+144-> None
+145-> ('PS0238', '')
+146-> ('NZ5176', '')
+147-> ('NP9032', '')
+148-> ('WK2006', 'Banana burglar')
+149-> ('FT8864', '')
+150-> None
+151-> ('YO5449', '')
+152-> ('RU1443', '')
+153-> ('XI5323', '')
+154-> None
+155-> None
+156-> None
+157-> None
+158-> ('TT4108', '')
+159-> ('TC0957', 'Jail-breaker')
+160-> ('PZ2869', '')
+161-> ('LZ8587', 'Tomato thief')
+162-> None
+163-> ('KG4927', 'Loud')
+164-> None
+165-> None
+166-> ('EZ4570', 'Cheats at monopoly')
+167-> ('SX6157', 'Suspended driving licence')
+168-> ('JO9870', 'ALL CAPS TWEETER')
+169-> ('PR7322', '')
+170-> ('QS1325', '')
+171-> ('UM2329', '')
+172-> ('CB8637', '')
+173-> ('JQ5919', '')
+174-> None
+175-> None
+176-> None
+177-> None
+178-> None
+179-> None
+180-> ('DK8747', 'Zombie')
+181-> None
+182-> ('PA4853', '')
+183-> ('YE6975', '')
+184-> None
+185-> None
+186-> None
+187-> ('AP2490', '')
+188-> None
+189-> None
+190-> None
+191-> ('NY7112', 'Snail speed')
+192-> None
+193-> None
+194-> ('QA5178', '')
+195-> None
+196-> ('VW5931', '')
+197-> None
+198-> ('OJ1210', '')
+199-> None
